@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#Runs the boat detector and light sensor simultaneously
+python3 detectBoat.py &
+python3 detectLight.py &
