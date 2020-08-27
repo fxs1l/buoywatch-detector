@@ -1,7 +1,7 @@
 # Buoywatch Detector
 
 ## Installation 
-Clone the repository to Raspberry Pi
+Clone the repository to the Raspberry Pi.
 ```bash
 git clone https://github.com/fxs1l/buoywatch-detector.git
 ```
