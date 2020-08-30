@@ -39,5 +39,5 @@ chmod +x run
 Move ``run`` to ``/etc/init.d/`` folder
 
 ## References
-⋅⋅* Team SEARIous modified and used relevant codes from https://github.com/ultralytics/yolov5 on the object detection model. 
+⋅⋅*Team SEARIous modified and used relevant codes from https://github.com/ultralytics/yolov5 on the object detection model. 
 
