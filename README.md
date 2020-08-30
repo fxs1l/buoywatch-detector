@@ -35,6 +35,9 @@ The bash script ``run`` runs ``detect_boat.py`` and ``detect_light.py`` simultan
 chmod +x run
 ./run
 ```
+
+## Schematic Diagram
+
 ### Enable on boot
 Move ``run`` to ``/etc/init.d/`` folder
 
