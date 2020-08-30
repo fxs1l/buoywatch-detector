@@ -1,5 +1,5 @@
 # BuoyWatch Boat Detection System
-This repository contains the source codes for the boat detection system of the [BuoyWatch Project](https://github.com/fxs1l/BuoyWatch).
+This repository contains the source codes for the boat detection system of the [BuoyWatch Project](https://github.com/fxs1l/BuoyWatch). 
 
 ## Installation 
 Clone the repository to the Raspberry Pi.
@@ -36,4 +36,7 @@ chmod +x run
 ```
 ### Enable on boot
 Move ``run`` to ``/etc/init.d/`` folder
+
+## References
+⋅⋅* Team SEARIous modified and used relevant codes from https://github.com/ultralytics/yolov5 on the object detection model. 
 
