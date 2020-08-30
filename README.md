@@ -1,6 +1,6 @@
-# BuoyWatch Boat Detection System
+# BuoyWatch Boat Detection Device
 ![buoywatch_logo.png](https://github.com/fxs1l/Buoywatch/blob/master/images/buoywatch_logo.png "BuoyWatch Logo")
-This repository contains the source codes for the boat detection system of the [BuoyWatch Project](https://github.com/fxs1l/BuoyWatch). 
+This repository contains the source codes for the boat detection node of the [BuoyWatch Project](https://github.com/fxs1l/BuoyWatch). 
 
 ## Installation 
 Clone the repository to the Raspberry Pi.
