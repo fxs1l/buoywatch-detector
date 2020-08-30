@@ -1,4 +1,5 @@
 # BuoyWatch Boat Detection System
+![buoywatch_logo.png](https://github.com/fxs1l/Buoywatch/blob/master/images/buoywatch_logo.png "BuoyWatch Logo")
 This repository contains the source codes for the boat detection system of the [BuoyWatch Project](https://github.com/fxs1l/BuoyWatch). 
 
 ## Installation 
