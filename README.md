@@ -45,5 +45,5 @@ The schematic diagram is for the deployed buoy boat detector. The Raspberry Pi c
 
 
 ## References
-⋅⋅*Team SEARIous modified and used relevant codes from https://github.com/ultralytics/yolov5 on the object detection model. 
+*Team SEARIous modified and used relevant codes from https://github.com/ultralytics/yolov5 on the object detection model. 
 
