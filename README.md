@@ -1,4 +1,4 @@
-# Buoywatch Detector
+# Buoywatch Seacraft Detector
 
 ## Installation 
 Clone the repository to the Raspberry Pi.
@@ -7,7 +7,7 @@ git clone https://github.com/fxs1l/buoywatch-detector.git
 ```
 > Note: Only tested on the Raspberry Pi 3 Model B.
 ## Requirements
-Python3.7 or later, OpenCV>=4.1.0, numpy>=1.16, Pytorch>=1.6, torchvision>=0.7.0, astral>=2.2.
+Python3.7 or later, opencv>=4.1.0, numpy>=1.16, torch>=1.6, torchvision>=0.7.0, astral>=2.2.
 
 The object detection system relies on the Pytorch framework. SEArious has built pip wheels for armv7l architecture of the Raspberry Pi Model 3. The wheels can be found [here](https://drive.google.com/drive/folders/1bOt7IZvQqZWHa5XknjHfDmiuiRYoWuIE?usp=sharing). To install:
 ```bash
