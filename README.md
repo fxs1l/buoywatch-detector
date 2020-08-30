@@ -37,6 +37,9 @@ chmod +x run
 ```
 
 ## Schematic Diagram
+![detector schematic.png](https://github.com/fxs1l/buoywatch-detector/blob/master/detector.png "Detector Schematic")
+
+The schematic diagram is for the deployed buoy boat detector. The Raspberry Pi camera is for the boat detection through machine learning model. The light dependent resistor acts as a light sensor in detecting the use of light in attracting fish for fishing at night. The positive data gathered will be sent to the receiver-node through LoRa.
 
 ### Enable on boot
 Move ``run`` to ``/etc/init.d/`` folder
